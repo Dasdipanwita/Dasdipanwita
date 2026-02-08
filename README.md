@@ -17,5 +17,5 @@
 - Student Management System
 
 ### 📫 Connect with me
-- LinkedIn: ...
+- LinkedIn: https://www.linkedin.com/in/dipanwita-das-b411692b1
 - Email: dasdipanwita2004@gmail.com
